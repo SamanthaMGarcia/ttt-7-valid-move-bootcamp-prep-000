@@ -1,10 +1,11 @@
 def valid_move?(board, index)
+  if index
   #if board[index] <= 8
     #true
   #else position_taken
     #nil
   #else 
-end
+#end
 end
 
 def position_taken?(board, index)
