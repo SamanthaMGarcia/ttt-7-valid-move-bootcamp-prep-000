@@ -1,8 +1,6 @@
 def valid_move?(board, index)
   if board[index] <= 8
     true
-  else board[index]to.int <= 9
-    true
   else position_taken
     nil
   else 
